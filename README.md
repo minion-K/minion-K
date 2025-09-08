@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=230&section=header&text=Minion's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlign=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=230&section=header&text=Minion's%20Github&fontSize=50)
 
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
