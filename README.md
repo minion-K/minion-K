@@ -2,15 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
-<div style="width: 500px; height: 300px; border: 1px solid black;">
-  여기에 내용을 넣으세요
-</div>
-  <h2>
-    Minion-K 
+## Minion-K 
+<div>
     <br>
     <br>
     <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </h2>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)
 </div>
