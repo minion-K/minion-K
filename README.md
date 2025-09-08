@@ -5,6 +5,7 @@
 <div width="200px">
   <h2>
     Minion-K
+    <br>
     <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </h2>
 </div>
