@@ -4,6 +4,7 @@
 
 <p>Minion-K</p>
 <br><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/>https://minion-g.tistory.com/<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
 ### Studing
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
