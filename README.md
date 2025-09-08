@@ -4,7 +4,7 @@
 
 <p>Minion-K</p>
 <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/> <p>https://minion-g.tistory.com/</p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)
 
 
   
