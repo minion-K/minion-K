@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
-### Skills
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+## Minion-K
+<img src="https://img.shields.io/badge/Tstory%23F50057.svg?&style=for-the-badge&logo=Tstory&logoColor=white" />
+
+### Studing
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
 <br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
