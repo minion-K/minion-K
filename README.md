@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
-<div style="width: 50px;">
+<div style="width: 500px; height: 300px; border: 1px solid black;">
+  여기에 내용을 넣으세요
+</div>
   <h2>
     Minion-K 
     <br>
