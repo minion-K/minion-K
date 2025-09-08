@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
 
-## Minion-K <br><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/> <br> <h3>https://minion-g.tistory.com/ <br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&)
+Minion-K <br><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/> <br> <h3>https://minion-g.tistory.com/ <br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&)
 
  
  
