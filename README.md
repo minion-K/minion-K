@@ -8,7 +8,8 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K)](https://github.com/minion-K/github-readme-stats) ### 📖 Studing
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K)](https://github.com/minion-K/github-readme-stats) 
+### 📖 Studing
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
 <br>
