@@ -45,6 +45,7 @@
 
 </div> |
 
+| :--: | :--: | :--: |
 | <div align="center">
 
 ### Most Used Language  
