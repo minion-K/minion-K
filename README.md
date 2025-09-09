@@ -82,11 +82,42 @@
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-| 제목 영역 |
-| --------- |
-| ## Minion-K |
-| 내용 내용 |
+| <div align="left">  
+## Minion-K  
+[![Tistory](https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white)](https://minion-g.tistory.com/)  
+[![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/minion-K)  
+</div> | <div align="right">  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)  
+</div> |
 
+| <div align="left">
+
+### Most Used Language  
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />  
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />  
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />  
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+
+</div> | <div align="center">
+
+### 📖 Studing  
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+
+</div> | <div align="right">
+
+### 🛠️ Tools  
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  
+<img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />  
+<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+
+</div> |
 
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
