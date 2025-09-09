@@ -40,33 +40,20 @@
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 
-<!-- 타이틀 및 배지 -->
-<h3 align="center">🎉 Minion's GITHUB 🎉</h3>
+# Minion-K
+
+[![TISTORY](https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white)](https://minion-k.tistory.com/)
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/minion-K)
 
 <p align="center">
-  <a href="https://minion-k.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory Blog"/></a>
-  &nbsp;
-  <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true" width="350" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true" width="420" />
 </p>
-
-<!-- 좌우 정렬: 언어 통계 / GitHub Stats -->
-<table width="100%">
-  <tr>
-    <td width="45%" valign="top">
-      <h4>Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true" width="100%" />
-    </td>
-    <td width="55%" valign="top">
-      <h4>Minion's GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
-<!-- 공부중 섹션 -->
-<h4>📚 Studing...</h4>
+### 📚 Studing
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -82,6 +69,16 @@
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+</p>
+
+---
+
+### 🛠 Tools
+
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 <!--
