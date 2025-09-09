@@ -40,6 +40,50 @@
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 
+<!-- 타이틀 및 배지 -->
+<h3 align="center">🎉 Minion's GITHUB 🎉</h3>
+
+<p align="center">
+  <a href="https://minion-k.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory Blog"/></a>
+  &nbsp;
+  <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<!-- 좌우 정렬: 언어 통계 / GitHub Stats -->
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <h4>Most Used Languages</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true" width="100%" />
+    </td>
+    <td width="55%" valign="top">
+      <h4>Minion's GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 공부중 섹션 -->
+<h4>📚 Studing...</h4>
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+</p>
+
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+</p>
+
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
