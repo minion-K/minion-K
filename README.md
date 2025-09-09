@@ -2,18 +2,28 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
-<p align="left">
-  <h2> Minion-K
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle;" />
-  </h2>
-</p>
+<!-- 헤딩과 밑줄 너비 조절 (밑줄은 <hr> 대신 커스텀 줄로) -->
+### <span style="border-bottom: 2px solid #ccc; padding-bottom: 5px; display: inline-block;">Minion-K</span>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K" />
-</p>
+<!-- 왼쪽 텍스트+뱃지와 오른쪽 차트를 flex 느낌으로 배치 -->
+<table>
+  <tr>
+    <td valign="top" style="padding-right: 20px;">
+      <p>
+        <a href="https://minion-g.tistory.com/">
+          <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+        </a>
+        <a href="https://github.com/minion-K">
+          <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
 
