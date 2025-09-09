@@ -47,6 +47,7 @@
   <h2> minion-K
   <br>
   <!-- 좌측 영역: 뱃지 + 간단한 텍스트 -->
+    
   [![Tistory](https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white)](https://minion-g.tistory.com/)
   [![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minion-K)
 
