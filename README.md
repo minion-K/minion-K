@@ -20,7 +20,7 @@
       </div>
     </td>
     <td style="vertical-align: top; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&hide_border=true" alt="Most Used Languages" style="border-radius: 8px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true;"/>
     </td>
   </tr>
 </table>
