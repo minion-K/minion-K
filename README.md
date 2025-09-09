@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
 <div style="display: flex; align-items: center; justify-content: center; border: none; padding: 20px; max-width: 700px;">
-
   <!-- 좌측 프로필 영역 -->
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding-right: 20px; border-right: 1px solid #e1e4e8;">
+  <div style="flex: 1; flex-direction: column; align-items: center; justify-content: center; padding-right: 20px; border-right: 1px solid #e1e4e8;">
     <h2 style="margin: 0 0 10px 0;">minion-K
     <div style="margin-top: 10px;">
       <a href="https://minion-g.tistory.com/">
