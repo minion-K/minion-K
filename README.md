@@ -2,35 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
-<table>
-  <tr>
-    <td style="border: none; padding-right: 20px; height: 100%;">
-      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-        <h2 style="margin-bottom: 10px;">minion-K</h2>
-        <div>
-          <a href="https://minion-g.tistory.com/">
-            <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
-          </a>
-          <a href="https://github.com/minion-K">
-            <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-          </a>
-        </div>
-      </div>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent;"/>
-    </td>
-  </tr>
-</table>
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minion-K" />
+</a>
+<a href="https://github.com/minion-K/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minion-K&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 |  <h2>minion-K</h2><a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>|<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent;"/>  |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+|  <h2>minion-K</h2><a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>|<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent;"/>  |
+|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 
 ### 📖 Studing</h2> 
