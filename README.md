@@ -6,7 +6,7 @@
 
 <div>
   <h2>📚Minion-K</h2>
-  <a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-  badge&logo=github&logoColor=white" /></a>
+  <a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-  badge&logo=github&logoColor=white" /></a>
 
 </div>
 
