@@ -19,7 +19,7 @@
         </div>
       </div>
     </td>
-    <td style="vertical-align: top; border:0;">
+    <td">
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent;"/>
     </td>
   </tr>
