@@ -33,88 +33,68 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
-# 🎉 Minion-K's GITHUB 🎉
-
-<a href="https://minion-k.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/TISTORY-orange?style=flat-square&logo=tistory" alt="Tistory" />
+## Minion-K <br><br> 
+<a href="https://minion-g.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
+</a> 
+<a href="https://github.com/minion-K" target="_blank">
+  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/minion-k" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-black?style=flat-square&logo=github" alt="GitHub" />
-</a>
-
----
 
 <table>
 <tr>
-<td>
+  <td valign="top" width="40%">
 
-### Most Used Languages
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K)
 
-- HTML 32.11%  
-- Java 31.34%  
-- CSS 22.2%  
-- JavaScript 13.99%  
-- PLSQL 0.37%
+  </td>
 
-</td>
+  <td valign="top" width="60%">
 
-<td>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)
 
-### Minion's GitHub Stats
-
-<table>
-<tr>
-  <td><b>Total Stars Earned:</b></td><td>0</td>
-</tr>
-<tr>
-  <td><b>Total Commits (2025):</b></td><td>295</td>
-</tr>
-<tr>
-  <td><b>Total PRs:</b></td><td>14</td>
-</tr>
-<tr>
-  <td><b>Total Issues:</b></td><td>7</td>
-</tr>
-<tr>
-  <td><b>Contributed to (last year):</b></td><td>4</td>
-</tr>
-</table>
-
-<div style="width:100px; height:100px; border-radius:50%; border:5px solid #c71585; display:flex; align-items:center; justify-content:center; font-size:24px; font-weight:bold; color:#c71585; margin: 10px auto;">
-  C+
-</div>
-
-</td>
+  </td>
 </tr>
 </table>
 
 ---
 
-### 📚 Studing
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<span style="background:#007396; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">JAVA</span>
-<span style="background:#6DB33F; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">SPRING</span>
+### 📖 Studing
 
-<br />
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 
-<span style="background:#E34F26; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">HTML5</span>
-<span style="background:#1572B6; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">CSS3</span>
-<span style="background:#F7DF1E; color:#000; padding:3px 8px; border-radius:3px; margin-right:4px;">JAVASCRIPT</span>
-<span style="background:#3178C6; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">TYPESCRIPT</span>
-<span style="background:#61DAFB; color:#000; padding:3px 8px; border-radius:3px; margin-right:4px;">REACT</span>
+<br><br>
 
-<br />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React" />
 
-<span style="background:#4479A1; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">MYSQL</span>
-<span style="background:#F80000; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">ORACLE</span>
+<br><br>
 
----
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 
-### 🔨 Tools
+</td>
 
-<span style="background:#0078D7; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">VISUAL STUDIO CODE</span>
-<span style="background:#000; color:#fff; padding:3px 8px; border-radius:3px; margin-right:4px;">INTELLIJ IDEA</span>
-<span style="background:#000; color:#fff; padding:3px 8px; border-radius:3px;">GITHUB</span>
+<td valign="top" width="50%">
+
+### 🛠️ Tools
+
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /> 
+<img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</td>
+</tr>
+</table>
+
 
 
 <!--
