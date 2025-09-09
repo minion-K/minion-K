@@ -1,18 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=15&height=200&section=header&text=Minion's%20Github&fontSize=50&animation=twinkling&fontAlign=71&fontAlignY=40)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
-<div>
-  <div style="display: inline-block; vertical-align: top; margin-right: 40px;">
-    <h2>minion-K</h2>
-    <a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-    <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
-  
-  <div style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K" />
-  </div>
-</div>
+<div style="display: flex; align-items: center; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; max-width: 700px;">
 
+  <!-- 좌측 프로필 영역 -->
+  <div style="flex: 1; text-align: center; border-right: 1px solid #e1e4e8; padding-right: 20px;">
+    <h2 style="margin-bottom: 10px;">minion-K</h2>
+    <a href="https://minion-g.tistory.com/">
+      <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge" />
+    </a>
+    <a href="https://github.com/minion-K">
+      <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    </a>
+  </div>
+
+  <!-- 우측 차트 영역 -->
+  <div style="flex: 2; padding-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&hide=css,html" alt="Most Used Languages" style="border-radius: 6px;" />
+  </div>
+
+</div>
 
 <table style="border: none;">
   <tr>
