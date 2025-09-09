@@ -42,20 +42,37 @@
 
 # Minion-K
 
-[![TISTORY](https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white)](https://minion-k.tistory.com/)
-[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/minion-K)
+<p>
+  <a href="https://minion-k.tistory.com/">
+    <img src="https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/minion-K">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true" width="350" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- 좌측 링크와 stats 사이 공간을 벌리기 위한 빈 공간 -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true" width="420" />
 </p>
 
 ---
 
-### 📚 Studing
-
 <p>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true" width="350" style="vertical-align:top" />
+  
+  <!-- 좌우 간격 -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Studing 및 Tools 섹션을 하나의 블록으로 묶기 -->
+  <span>
+
+  ### 📚 Studing
+
+  <br/>
+
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   &nbsp;&nbsp;
@@ -64,21 +81,23 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-</p>
 
-<p>
+  <br/><br/>
+
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-</p>
 
----
+  <br/><br/>
 
-### 🛠 Tools
+  ### 🛠 Tools
 
-<p>
+  <br/>
+
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+
+  </span>
 </p>
 
 <!--
