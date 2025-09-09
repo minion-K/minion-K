@@ -6,7 +6,7 @@
   <tr>
     <td style="border: none; padding-right: 20px; height: 100%;">
       <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-        <h2 style="margin-bottom: 10px;">minion-K</h2>
+        <h2 style="margin-bottom: 10px;">minion-K
         <div>
           <a href="https://minion-g.tistory.com/">
             <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
@@ -14,6 +14,7 @@
           <a href="https://github.com/minion-K">
             <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
           </a>
+        </h2>
         </div>
       </div>
     </td>
