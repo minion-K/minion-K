@@ -40,7 +40,8 @@
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 
-# Minion-K
+** Minion-K **
+---
 
 <p>
   <a href="https://minion-k.tistory.com" target="_blank" rel="noopener noreferrer">
