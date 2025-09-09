@@ -10,13 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical"/>
 </p>
 
-
-
-
-
-
 <hr>
-
 
 ### 📖 Studing</h2> 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
@@ -38,42 +32,6 @@
 ### 🛠️Tools
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-
-# Minion-K
-
-<p>
-  <a href="https://minion-g.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TISTORY-FF5722?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/minion-K" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=default&hide_border=true) |
-| --- |
-| **Studying... 🎤**<br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <br><br>
-  **Tools**<br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ" />
-|
 
 
 <!--
