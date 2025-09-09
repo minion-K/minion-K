@@ -5,7 +5,6 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none;">
       <h2 style="margin-bottom: 0;">minion-K</h2>
-      <hr style="width: 50px; text-align: left; margin-left: 0;"/>
       <a href="https://minion-g.tistory.com/">
         <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
       </a>
