@@ -142,6 +142,66 @@
   </span>
 </p>
 
+## Minion-K
+
+<p>
+  <a href="https://minion-g.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://github.com/minion-K" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p>
+  <strong>Stat:</strong> &nbsp;
+  <a href="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" target="_blank" style="text-decoration:none; color:inherit;">GitHub Stats Link</a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" alt="GitHub Stats" width="180" />
+</p>
+
+---
+
+<p>
+  <span style="display:inline-block; vertical-align: top; width: 32%;">
+
+### Most Used Language
+
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React" />
+
+  </span>
+
+  <span style="display:inline-block; vertical-align: top; width: 32%;">
+
+### 📖 Studing
+
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+
+  </span>
+
+  <span style="display:inline-block; vertical-align: top; width: 32%;">
+
+### 🛠️ Tools
+
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  </span>
+</p>
+
 
 
 
