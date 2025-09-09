@@ -7,7 +7,6 @@
   <div style="flex: 1; min-width: 150px;">
     <h2 style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px; margin-bottom: 8px; margin-top: 0;">
       minion-K
-    </h2>
     <div>
       <a href="https://minion-g.tistory.com/">
         <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge" />
@@ -16,6 +15,7 @@
         <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
       </a>
     </div>
+    </h2>
   </div>
 
   <!-- 오른쪽 -->
