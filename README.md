@@ -4,17 +4,18 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px; border: none;">
-      <h2 style="margin-bottom: 0;">minion-K</h2>
+    <td">
+      <h2 style="margin-bottom: 0;">minion-K
       <a href="https://minion-g.tistory.com/">
         <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
       </a>
       <a href="https://github.com/minion-K">
         <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
+    </h2>    
     </td>
-    <td style="vertical-align: top; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&hide_border=true" alt="Most Used Languages" style="border-radius: 8px;"/>
+    <td ">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&hide_border=true" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
