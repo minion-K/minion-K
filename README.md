@@ -40,44 +40,52 @@
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
 
-**Minion-K**
-__
-
-<p>
-  <a href="https://minion-k.tistory.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/minion-K" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
-</p>
-
+# Minion-K
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages" width="350" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    ### 📚 Studing<br>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-    <br><br>
-    ### 🛠 Tools<br>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </span>
+  <a href="https://your-tistory-link" target="_blank">
+    <img src="https://img.shields.io/badge/TISTORY-BLOG-FF5722?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog"/>
+  </a>
+  <a href="https://github.com/minion-K" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&theme=default" alt="Most Used Languages" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <p><strong>Studying...</strong> 🔧</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
