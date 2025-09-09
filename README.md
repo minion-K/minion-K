@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
-## Minion-K <br><br> 
+## Minion-K
+
 <a href="https://minion-g.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"/>
 </a> 
@@ -41,15 +42,15 @@
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
 <tr>
-  <td valign="top" width="40%">
+  <td valign="top" width="40%" style="border:none; padding-right:20px;">
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K)
 
   </td>
 
-  <td valign="top" width="60%">
+  <td valign="top" width="60%" style="border:none;">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)
 
@@ -59,9 +60,9 @@
 
 ---
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:none; padding-right:20px;">
 
 ### 📖 Studing
 
@@ -83,7 +84,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border:none;">
 
 ### 🛠️ Tools
 
