@@ -11,8 +11,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical) 
   
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)  |
-|---|---|
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 
 
