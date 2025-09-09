@@ -9,7 +9,11 @@
   <a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-  badge&logo=github&logoColor=white" /></a>
 
 </div>
-
+<div style="width: 500px; margin: 0 auto; border: 1px solid #ddd; padding: 20px;">
+  <!-- 너비 500px의 div 태그로, 가운데 정렬(margin: 0 auto)하고 테두리와 패딩을 적용합니다. -->
+  <h2>제목</h2>
+  <p>이 내용은 너비 500px로 고정된 div 안에 표시됩니다.</p>
+</div>
 
 
 
