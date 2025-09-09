@@ -42,15 +42,15 @@
 
 # Minion-K
 
-<table>
-<tr>
-<td>
+<table style="border:none; border-collapse: collapse;">
+<tr style="border:none;">
+<td style="border:none; vertical-align: top;">
 
 [![Tistory](https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white)](https://minion-k.tistory.com)  
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/minion-K)
 
 </td>
-<td>
+<td style="border:none; vertical-align: top;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true)
 
@@ -60,14 +60,14 @@
 
 ---
 
-<table>
-<tr>
-<td>
+<table style="border:none; border-collapse: collapse;">
+<tr style="border:none;">
+<td style="border:none; vertical-align: top;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true)
 
 </td>
-<td>
+<td style="border:none; vertical-align: top;">
 
 ### 📚 Studing  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
@@ -88,8 +88,6 @@
 </td>
 </tr>
 </table>
-
-
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
