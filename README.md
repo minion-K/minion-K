@@ -41,7 +41,7 @@
 
 
 **Minion-K**
-___
+_
 
 <p>
   <a href="https://minion-k.tistory.com" target="_blank" rel="noopener noreferrer">
