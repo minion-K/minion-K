@@ -97,13 +97,9 @@
 ---
 
 <p>
-  <strong style="vertical-align: middle;">Stat:</strong>
-  &nbsp;&nbsp;
-  <a href="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" target="_blank" style="vertical-align: middle; text-decoration:none; color:inherit;">GitHub Stats Link</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" alt="GitHub Stats" style="vertical-align: middle;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K" alt="Top Languages" style="vertical-align: middle;" />
+  <strong>Stat:</strong> &nbsp;
+  <a href="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" target="_blank" style="text-decoration:none; color:inherit;">GitHub Stats Link</a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" alt="GitHub Stats" width="180" />
 </p>
 
 ---
