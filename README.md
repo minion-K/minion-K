@@ -5,8 +5,8 @@
 <div style="display: flex; align-items: center; justify-content: center; border: none; padding: 20px; max-width: 700px;">
 
   <!-- 좌측 프로필 영역 -->
-  <div style="width:80px; flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding-right: 20px; border-right: 1px solid #e1e4e8;">
-    <h2 style="margin: 0 0 10px 0;">minion-K</h2>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding-right: 20px; border-right: 1px solid #e1e4e8;">
+    <h2 style="margin: 0 0 10px 0;">minion-K
     <div style="margin-top: 10px;">
       <a href="https://minion-g.tistory.com/">
         <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge" />
@@ -14,6 +14,7 @@
       <a href="https://github.com/minion-K">
         <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
       </a>
+     </h2>
     </div>
   </div>
 
