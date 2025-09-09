@@ -42,37 +42,53 @@
 
 # Minion-K
 
-| Tistory & GitHub Links | GitHub Stats |
-| --- | --- |
-| 
-  [![Tistory](https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white)](https://minion-k.tistory.com)  
-  [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/minion-K)
-| 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true) |
+<table>
+<tr>
+<td>
+
+[![Tistory](https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white)](https://minion-k.tistory.com)  
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/minion-K)
+
+</td>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ---
 
-| Most Used Languages | Studing & Tools |
-| --- | --- |
-| 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true)
-| 
-  ### 📚 Studing  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+<table>
+<tr>
+<td>
 
-  <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true)
 
-  ### 🛠 Tools  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-|
+</td>
+<td>
+
+### 📚 Studing  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+
+<br>
+
+### 🛠 Tools  
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
