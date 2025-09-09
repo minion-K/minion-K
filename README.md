@@ -33,45 +33,54 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 
-| <div align="left">
+<table border="0" style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td style="vertical-align: top;">
+      <h3 style="margin-bottom: 0;">Minion-K</h3>
+      <a href="https://minion-g.tistory.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+      </a>
+      <a href="https://github.com/minion-K" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td style="vertical-align: top; text-align: right; width: 55%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" alt="Minion's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-## Minion-K  
-[![Tistory](https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white)](https://minion-g.tistory.com/)  
-[![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/minion-K)
+<br />
 
-</div> | <div align="right">
+<table border="0" style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td style="vertical-align: top; text-align: center;">
+      <strong>Most Used Language</strong><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K" alt="Most Used Languages" />
+    </td>
+    <td style="vertical-align: top; text-align: center;">
+      <strong>📖 Studing</strong><br />
+      <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+    </td>
+    <td style="vertical-align: top; text-align: center;">
+      <strong>🛠️ Tools</strong><br />
+      <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
+      <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="IntelliJ IDEA" />
+      <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)
-
-</div> |
-
-| :--: | :--: | :--: |
-| <div align="center">
-
-### Most Used Language  
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />  
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />  
-<br>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />  
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />  
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />  
-<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />  
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-
-</div> | <div align="center">
-
-### 📖 Studing  
-<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />  
-<img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-
-</div> | <div align="center">
-
-### 🛠️ Tools  
-<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  
-<img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />  
-<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-
-</div> |
 
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
