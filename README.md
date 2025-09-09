@@ -6,7 +6,7 @@
 
 
 <div>
-  <div margin-left="0">  
+  <div margin-right="0">  
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K)
 
