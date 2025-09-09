@@ -14,7 +14,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical"/>
 </p>
 
 
