@@ -44,7 +44,7 @@
 
 <p>
   <a href="https://your-tistory-link" target="_blank">
-    <img src="https://img.shields.io/badge/TISTORY-BLOG-FF5722?style=flat-square&logo=tistory&logoColor=white" alt="Tistory"/>
+    <img src="https://img.shields.io/badge/TISTORY-FF5722?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog"/>
   </a>
   <a href="https://github.com/minion-K" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -84,6 +84,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <!--
