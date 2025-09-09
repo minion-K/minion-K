@@ -2,48 +2,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
-<div style="display: flex; align-items: center; justify-content: center; border: none; padding: 20px; max-width: 700px;">
-  <!-- 좌측 프로필 영역 -->
-  <div style="flex: 1; flex-direction: column; align-items: center; justify-content: center; padding-right: 20px; border-right: 1px solid #e1e4e8;">
-    <h2 style="margin: 0 0 10px 0;">minion-K
-    <div style="margin-top: 10px;">
-      <a href="https://minion-g.tistory.com/">
-        <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge" />
-      </a>
-      <a href="https://github.com/minion-K">
-        <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-      </a>
-     </h2>
-    </div>
-  </div>
-
-  <!-- 우측 차트 영역 -->
-  <div style="flex: 2; padding-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&hide_border=true" alt="Most Used Languages" />
-  </div>
-
-</div>
-
-
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px; border: none;">
-     <h2 style="margin-bottom: 0;">minion-K
-      <br/>
-      <br/>
-      <a href="https://minion-g.tistory.com/">
-        <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
-      </a>
-      <a href="https://github.com/minion-K">
-        <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-      </a>
-     </h2>
+    <td style="border: none; padding-right: 20px; height: 100%;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <h2 style="margin-bottom: 10px;">minion-K</h2>
+        <div>
+          <a href="https://minion-g.tistory.com/">
+            <img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge"/>
+          </a>
+          <a href="https://github.com/minion-K">
+            <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+          </a>
+        </div>
+      </div>
     </td>
     <td style="vertical-align: top; border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&hide_border=true" alt="Most Used Languages" style="border-radius: 8px;"/>
     </td>
   </tr>
 </table>
+
 
 
 
