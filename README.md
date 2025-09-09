@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/minion-K/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=minion-K" />
 </a>
 <a href="https://github.com/minion-K/convoychat">
