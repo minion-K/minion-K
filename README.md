@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=15&height=200&section=header&text=Minion's%20Github&fontSize=50&animation=twinkling&fontAlign=71&fontAlignY=40)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
-<table>
+<table border="0">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none;">
       <h2 style="margin-bottom: 0;">minion-K</h2>
