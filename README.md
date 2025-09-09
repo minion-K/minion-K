@@ -13,9 +13,7 @@
 |  <h2>minion-K</h2><a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>|<img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=transparent;"/>  |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-|  <a href="https://github.com/minion-K/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minion-K&layout=compact&langs_count=8&card_width=320" />
-</a>|<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent;"/>  |
+|  <a href="https://github.com/minion-K/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minion-K&layout=compact&langs_count=8&card_width=320" /></a>|<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent;"/>  |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
