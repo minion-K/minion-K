@@ -42,53 +42,41 @@
 
 # Minion-K
 
-<table style="border:none; border-collapse: collapse;">
-<tr style="border:none;">
-<td style="border:none; vertical-align: top;">
+<p>
+  <a href="https://minion-k.tistory.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white" alt="Tistory" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/minion-K" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[![Tistory](https://img.shields.io/badge/TISTORY-FF5722?style=flat&logo=tistory&logoColor=white)](https://minion-k.tistory.com)  
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/minion-K)
-
-</td>
-<td style="border:none; vertical-align: top;">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true)
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+</p>
 
 ---
 
-<table style="border:none; border-collapse: collapse;">
-<tr style="border:none;">
-<td style="border:none; vertical-align: top;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true)
-
-</td>
-<td style="border:none; vertical-align: top;">
-
-### 📚 Studing  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-
-<br>
-
-### 🛠 Tools  
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-</td>
-</tr>
-</table>
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages" width="350" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    ### 📚 Studing<br>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+    <br><br>
+    ### 🛠 Tools<br>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </span>
+</p>
 
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
