@@ -41,21 +41,22 @@
 
 
 # Minion-K
-<p style="margin-top: 0; margin-bottom: 8px;">
-  <a href="https://your-tistory-link" target="_blank" style="margin-right: 8px;">
+
+<p style="margin-top: 0; margin-bottom: 4px;">
+  <a href="https://your-tistory-link" target="_blank" style="margin-right: 8px; vertical-align: middle;">
     <img src="https://img.shields.io/badge/TISTORY-BLOG-FF5722?style=flat-square&logo=tistory&logoColor=white" alt="Tistory Blog" />
   </a>
-  <a href="https://github.com/minion-K" target="_blank">
+  <a href="https://github.com/minion-K" target="_blank" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<hr style="width: 120px; border: 1.5px solid #ddd; margin-top: 0; margin-bottom: 20px;" />
+<hr style="width: 100px; border: 1.5px solid #ddd; margin-top: 0; margin-bottom: 20px;" />
 
-<p style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 48%; min-width: 300px;" />
+<p style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 48%; min-width: 280px;" />
   
-  <div style="max-width: 48%; min-width: 300px;">
+  <div style="max-width: 48%; min-width: 280px;">
     <p><strong style="color:#2f80ed;">Most Used Languages</strong></p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&theme=default" alt="Most Used Languages" />
 
@@ -78,6 +79,7 @@
     </p>
   </div>
 </p>
+
 
 
 
