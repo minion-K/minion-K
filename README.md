@@ -6,15 +6,15 @@
 
 
 <div>
-  <div align="right">
+  <div margin-left="0">  
   
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K)
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K)
+
   </div>
 
   <div align="left">
   
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical)  
   
   </div>
   
