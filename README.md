@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px; border: none;">
+    <td style="vertical-align: top; padding-right: 20px; border: none; text-align:center">
      <h2 style="margin-bottom: 0;">minion-K
       <br/>
       <br/>
