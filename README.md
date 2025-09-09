@@ -2,20 +2,40 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7789B&vCenter=true&width=435&lines=Welcome+Minion's+Github!%E2%AD%90)](https://git.io/typing-svg)
 
+# minion-K
+
+---
+
+<div style="display: flex; align-items: flex-start; gap: 40px;">
+
+  <!-- 왼쪽 영역 -->
+  <div style="flex: 1; min-width: 150px;">
+    <h3 style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px; margin-bottom: 8px;">
+      minion-K
+    </h3>
+    <div>
+      <a href="https://minion-g.tistory.com/">
+        <img src="https://img.shields.io/badge/tistory-E65C22?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge" />
+      </a>
+      <a href="https://github.com/minion-K">
+        <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+      </a>
+    </div>
+  </div>
+
+  <!-- 오른쪽 영역 -->
+  <div style="flex: 2; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K&layout=compact&hide_border=true" alt="Most Used Languages" style="border-radius: 8px;" />
+  </div>
+
+</div>
+
+
+
 
 |  <h2>minion-K</h2><a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K"/>  |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<p>
-  <h2>Minion-K <br><br> <a href="https://minion-g.tistory.com/"><img src="https://img.shields.io/badge/tistory-eb531f?style=for-the-badge&logo=tistory&logoColor=white"/></a> <a href="https://github.com/minion-K"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K"/> </h2> 
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minion-K"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=minion-K&show_icons=true&theme=radical"/>
-</p>
-
-<hr>
 
 ### 📖 Studing</h2> 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
