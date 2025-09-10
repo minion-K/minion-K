@@ -16,7 +16,7 @@
 </div>
 
 
-<div style="border: none;">
+<div style="border: 0;">
 
 | 이름 | 내용 |
 |---|---|
