@@ -15,15 +15,6 @@
 
 </div>
 
-
-<div style="border: 0;">
-
-| 이름 | 내용 |
-|---|---|
-| A | 내용 A |
-| B | 내용 B |
-</div>
-    
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
