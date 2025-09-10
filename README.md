@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  <table border="0" style="border-collapse: collapse;">
+  <table style="border:none;" style="border-collapse: collapse;">
     <tr>
       <td>
         <h2>minion-K</h2>
