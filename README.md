@@ -15,16 +15,16 @@
 
 </div>
 
-    <table style="border-collapse: collapse;">
-      <tr>
-        <td style="border: none;">Cell 1</td>
-        <td style="border: none;">Cell 2</td>
-      </tr>
-      <tr>
-        <td style="border: none;">Cell 3</td>
-        <td style="border: none;">Cell 4</td>
-      </tr>
-    </table>
+<table style="border-collapse: collapse;">
+<tr>
+  <td style="border: none;">Cell 1</td>
+  <td style="border: none;">Cell 2</td>
+</tr>
+<tr>
+  <td style="border: none;">Cell 3</td>
+  <td style="border: none;">Cell 4</td>
+</tr>
+</table>
 
 <!--
 **minion-K/minion-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
